@@ -1,3 +1,7 @@
+# Deprecated
+
+vtta-party is now maintained by #Zamrod from the League of Foundry Developers. Please go to [the new repository](https://github.com/League-of-Foundry-Developers/party-overview) for any details. Thank you Zamrod for taking over!
+
 # vtta-party
 
 A quick overview about the players that have tokens placed on the currently active scene. At a glance, you will see
